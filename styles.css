@@ -1,4 +1,5 @@
 
+
 a{
 	position: absolute;
 	left: 40%;
@@ -31,3 +32,5 @@ A:hover { COLOR: pink; TEXT-DECORATION: none; font-weight: none }
     max-height: 20%;
     content: centre;
 }
+body {background-image: url("http://www.allwhitebackground.com/formal-powerpoint-background.html/download/10225");}
+h1 { font-family: cursive ; font-size: 65px; font-color: ##005580; text-align:center; }
